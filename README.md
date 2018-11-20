@@ -1,5 +1,5 @@
 # e-puck2_pi_blob-tracking
-Simple blob tracking example based on OpenCV 3.
+Simple blob tracking example based on OpenCV 3.<br/>
 It is developed to run with the omnivision extension.
 
 ## How to build
