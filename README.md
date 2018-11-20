@@ -1,5 +1,6 @@
 # e-puck2_pi_blob-tracking
 Simple blob tracking example based on OpenCV 3.
+It is developed to run with the omnivision extension.
 
 ## How to build
 g++ $(pkg-config --libs --cflags opencv) -ljpeg -o omni_detect_blob omni_detect_blob.cpp
